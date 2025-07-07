@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "DhHfAzf5UNs=",
+  "dgSpecHash": "yZyPcn04C14=",
   "success": true,
   "projectFilePath": "C:\\Users\\einav\\Desktop\\Einav\\Courses\\Design Patterns - Domtrain\\Singleton\\Singleton.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\einav\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.6\\microsoft.extensions.dependencyinjection.9.0.6.nupkg.sha512",
+    "C:\\Users\\einav\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.6\\microsoft.extensions.dependencyinjection.abstractions.9.0.6.nupkg.sha512"
+  ],
   "logs": []
 }
