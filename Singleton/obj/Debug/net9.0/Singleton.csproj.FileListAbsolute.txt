@@ -13,3 +13,7 @@ C:\Users\einav\Desktop\Einav\Courses\Design Patterns - Domtrain\Singleton\obj\De
 C:\Users\einav\Desktop\Einav\Courses\Design Patterns - Domtrain\Singleton\obj\Debug\net9.0\Singleton.pdb
 C:\Users\einav\Desktop\Einav\Courses\Design Patterns - Domtrain\Singleton\obj\Debug\net9.0\Singleton.genruntimeconfig.cache
 C:\Users\einav\Desktop\Einav\Courses\Design Patterns - Domtrain\Singleton\obj\Debug\net9.0\ref\Singleton.dll
+C:\Users\einav\Desktop\Einav\Courses\Design Patterns - Domtrain\Singleton\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\einav\Desktop\Einav\Courses\Design Patterns - Domtrain\Singleton\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\einav\Desktop\Einav\Courses\Design Patterns - Domtrain\Singleton\obj\Debug\net9.0\Singleton.csproj.AssemblyReference.cache
+C:\Users\einav\Desktop\Einav\Courses\Design Patterns - Domtrain\Singleton\obj\Debug\net9.0\Singleton.csproj.Up2Date
