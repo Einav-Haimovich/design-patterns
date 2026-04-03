@@ -1,5 +1,6 @@
 ﻿// client code
-using _3._2;
+
+using Facade;
 
 var castingFacade = new CastingFacade(
     new DeviceExplorer());
