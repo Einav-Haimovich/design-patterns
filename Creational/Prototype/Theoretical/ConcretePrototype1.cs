@@ -1,0 +1,9 @@
+namespace Prototype.Theoretical;
+
+public class ConcretePrototype1 : IPrototype
+{
+    public IPrototype Clone()
+    {
+        return new ConcretePrototype1();
+    }
+}
