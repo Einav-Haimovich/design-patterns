@@ -102,7 +102,7 @@ PatternName/
 
 ---
 
-Thanks to [Dometrain](https://dometrain.com/) for these courses.
+Thanks to Amichai Mantinband for these courses on [Dometrain](https://dometrain.com/).
 
 **Certificates of completion:**
 - [Singleton](certificates/Singleton%20Design%20Pattern%20-%20Einav%20Haimovich.pdf)
